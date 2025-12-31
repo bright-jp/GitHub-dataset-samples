@@ -1,58 +1,58 @@
 # GitHub-dataset-samples
 
-<h2>A sample dataset of 1001 GitHub repositories</h2>
+<h2>1001件のGitHubリポジトリのサンプルデータセット</h2>
 
 ![GitHub dataset header](https://github.com/luminati-io/GitHub-dataset-samples/blob/main/github-datasets.PNG)
 
-A GitHub dataset sample of over 1000 repositories. Dataset was extracted using the <b>Bright Data API</b>.
+1000件を超えるリポジトリのGitHubデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
-<h2>Some of the data points that are included in the dataset:</h2>
+<h2>データセットに含まれるデータポイントの一部：</h2>
 
-* ```url```: Repository web address
-* ```id```: Unique repository ID
-* ```code_language```: Main programming language
-* ```code```: Repository source code
-* ```num_lines```: Total lines of code
-* ```user_name```: Repository owner's username
-* ```user_url```: Owner's profile URL
-* ```size```: Repository size
-* ```size_unit```: Repository size units
-* ```size_num```: Repository size number
-* ```breadcrumbs```: Repository navigation path
-* ```num_issues```: Total issues count
-* ```num_pull_requests```: Total pull requests count
-* ```num_projects```: Number of associated projects
-* ```num_fork```: Fork count
-* ```num_stared```: Star count
-* ```last_feature```: Latest feature change
-* ```latest_update```: Date of last update
+* ```url```: リポジトリのWebアドレス
+* ```id```: 一意のリポジトリID
+* ```code_language```: メインのプログラミング言語
+* ```code```: リポジトリのソースコード
+* ```num_lines```: コードの総行数
+* ```user_name```: リポジトリ所有者のユーザー名
+* ```user_url```: 所有者のプロフィールURL
+* ```size```: リポジトリサイズ
+* ```size_unit```: リポジトリサイズの単位
+* ```size_num```: リポジトリサイズの数値
+* ```breadcrumbs```: リポジトリのナビゲーションパス
+* ```num_issues```: issue総数
+* ```num_pull_requests```: pull request総数
+* ```num_projects```: 関連プロジェクト数
+* ```num_fork```: fork数
+* ```num_stared```: star数
+* ```last_feature```: 最新の機能変更
+* ```latest_update```: 最終更新日
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "GitHub Repositories (public data)"
-dataset which includes more than <b>2,200,000 repositories</b>.
+これは「GitHub Repositories (public data)」から派生したサンプルサブセットです。
+このデータセットには <b>2,200,000件以上のリポジトリ</b> が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式：<b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じてファイルを .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット配信タイプのオプション：<b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度：<b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント：<b>Based on request.</b>
 
-<b>[Get the full GitHub dataset](https://brightdata.com/products/datasets/github)</b>.
+<b>[GitHubデータセットのフル版を入手](https://brightdata.jp/products/datasets/github)</b>。
 
-<h2>What are the GitHub datasets use cases?</h2>
+<h2>GitHubデータセットのユースケースは何ですか？</h2>
 
 <h3>1. Developer Engagement</h3>
-Gain insights into the activity and health of open-source projects by tracking data points like commit histories, pull requests, and issue discussions. This data can help businesses identify high-impact projects, monitor trends, and discover collaboration opportunities in the open-source community.
+コミット履歴、pull request、issueでのディスカッションなどのデータポイントを追跡することで、オープンソースプロジェクトの活動状況や健全性に関するインサイトを得られます。このデータは、企業が影響度の高いプロジェクトを特定し、トレンドを監視し、オープンソースコミュニティにおけるコラボレーション機会を見つけるのに役立ちます。
 
 <h3>2. Community Engagement</h3>
-Evaluate the popularity and community backing of open-source projects by analyzing metrics such as star and fork counts. This information enables businesses to understand which projects are gaining traction, making informed decisions on adoption, and identifying technology trends.
+star数やfork数などの指標を分析することで、オープンソースプロジェクトの人気やコミュニティからの支持を評価できます。この情報により、どのプロジェクトが勢いを増しているかを把握し、採用に関する意思決定を適切に行い、技術トレンドを特定できます。
 
 <h3>3. Community Advocacy</h3>
-Utilize public GitHub profile data to foster engagement and advocacy within the open-source community. Identify active users who star, fork, and contribute to repositories in your field to create a network of advocates who can amplify your projects and fuel collaborative innovation.
+公開されているGitHubプロフィールデータを活用して、オープンソースコミュニティ内でのエンゲージメントとアドボカシーを促進できます。ご自身の分野においてリポジトリにstarやforkを付けたり、貢献したりしているアクティブユーザーを特定し、プロジェクトを拡散して協調的なイノベーションを加速できる支援者ネットワークを構築します。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiative は、環境および社会的なさまざまな活動を推進する主要な学術機関の教員・研究者、NGOおよびNPOに対して、Bright Data の <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> および <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供しています。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
