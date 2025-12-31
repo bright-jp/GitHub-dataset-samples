@@ -2,7 +2,7 @@
 
 <h2>1001件のGitHubリポジトリのサンプルデータセット</h2>
 
-![GitHub dataset header](https://github.com/luminati-io/GitHub-dataset-samples/blob/main/github-datasets.PNG)
+![GitHub dataset header](https://github.com/bright-jp/GitHub-dataset-samples/blob/main/github-datasets.PNG)
 
 1000件を超えるリポジトリのGitHubデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
